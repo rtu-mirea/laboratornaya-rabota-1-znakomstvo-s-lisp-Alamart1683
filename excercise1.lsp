@@ -1,3 +1,4 @@
+;; Задание 1
 (defun factorial(n)
 	(if (= n 0)
 	1
